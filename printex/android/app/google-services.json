@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "405755343892",
+    "project_id": "printex-project-667c9",
+    "storage_bucket": "printex-project-667c9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:405755343892:android:fd504fc7c30375fbaee301",
+        "android_client_info": {
+          "package_name": "com.example.printex"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqOcpJXRq-f7BjcEiE5fTck-Ukg3-N2zc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:405755343892:android:143193b15a0b6d98aee301",
+        "android_client_info": {
+          "package_name": "com.example.printex_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqOcpJXRq-f7BjcEiE5fTck-Ukg3-N2zc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
